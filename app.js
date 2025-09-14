@@ -1,5 +1,5 @@
 // API Configuration
-const API_BASE_URL = 'http://localhost:5000/api';
+const API_BASE_URL = 'https://simple-shop-backend.vercel.app/api';
 
 class APIService {
     constructor() {
